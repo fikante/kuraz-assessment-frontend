@@ -14,6 +14,4 @@ A simple React-based Task Manager UI using Vite that allows users to:
 - npm
 
 ### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
+1. Clone this repository: git clone https://github.com/fikante/kuraz-assessment-frontend.git
